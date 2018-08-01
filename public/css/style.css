@@ -31,6 +31,16 @@ Version      : 1.0
 * ----------------------------------------------------------------------------------------
 */
 
+
+.michaelFlexbox{
+  display:flex;
+  flex-direction: row;
+}
+
+.michaelAnchor{
+  margin: 0 auto 20px auto;
+}
+
 body {
     font-size: 14px;
     font-weight: 300;
